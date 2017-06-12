@@ -1,9 +1,0 @@
-<superhero>
-    <class>
-        <name lang="en">Tony Stark</name>
-        <alias>Iron Man</alias>
-        <sex>male</sex>
-        <birthday>1969</birthday>
-        <age>47</age>
-    </class>
-</superhero>

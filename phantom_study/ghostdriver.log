@@ -1,0 +1,60 @@
+[INFO  - 2017-06-12T02:50:19.908Z] GhostDriver - Main - running on port 58272
+[INFO  - 2017-06-12T02:50:19.985Z] Session [df7430c0-4f19-11e7-a045-670f2a869313] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-06-12T02:50:19.985Z] Session [df7430c0-4f19-11e7-a045-670f2a869313] - page.customHeaders:  - {}
+[INFO  - 2017-06-12T02:50:19.985Z] Session [df7430c0-4f19-11e7-a045-670f2a869313] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-06-12T02:50:19.985Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: df7430c0-4f19-11e7-a045-670f2a869313
+[ERROR - 2017-06-12T02:50:24.670Z] Session [df7430c0-4f19-11e7-a045-670f2a869313] - page.onError - msg: ReferenceError: Can't find variable: swfobject
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-12T02:50:24.670Z] Session [df7430c0-4f19-11e7-a045-670f2a869313] - page.onError - stack:
+  support (https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/voice/js/voice_1e62c0f.js:23)
+  (anonymous function) (https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_0596852.js:388)
+  i (https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_0596852.js:109)
+  b (https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_0596852.js:109)
+  (anonymous function) (https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_0596852.js:113)
+  i (https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_0596852.js:109[INFO  - 2017-06-12T02:53:06.685Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-12T02:58:06.670Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-12T03:03:06.656Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-12T03:08:06.647Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-12T03:13:06.637Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+3K/r/www/cache/static/protocol/https/global/js/all_async_search_0596852.js:116)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2017-06-12T02:54:37.757Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-12T02:59:37.742Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-12T03:04:37.731Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-12T03:09:37.718Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+5823082&_=1497235823095:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-12T02:50:31.189Z] Session [df7430c0-4f19-11e7-a045-670f2a869313] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110205646466708276421_1497235823082')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-12T02:50:31.189Z] Session [df7430c0-4f19-11e7-a045-670f2a869313] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Python%20Seleni&json=1&p=3&sid=1447_21124_22918_22158&req=2&csor=13&pwd=Python%20Selen&cb=jQuery110205646466708276421_1497235823082&_=1497235823096:1)
+
+  phantomjs://platform/console+[INFO  - 2017-06-12T02:55:26.151Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-12T03:00:26.140Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-12T03:05:26.126Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-12T03:10:26.115Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+646466708276421_1497235823082&_=1497235823097:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-12T02:50:31.190Z] Session [df7430c0-4f19-11e7-a045-670f2a869313] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110205646466708276421_1497235823082')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-12T02:50:31.190Z] Session [df7430c0-4f19-11e7-a045-670f2a869313] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Python%20Sele&json=1&p=3&sid=1447_21124_22918_22158&req=2&csor=11&pwd=Python%20Sel&cb=jQuery110205646466708276421_1497235823082&_=1497235823094:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-12T02:50:31.190Z] Session [df7430c0-4f19-11e7-a045-670f2a869313] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110205646466708276421_1497235823082')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-12T02:50:31.190Z] Session [df7430c0-4f19-11e7-a045-670f2a869313] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Python%20Selenium&json=1&p=3&sid=1447_21124_22918_22158&req=2&csor=15&pwd=Python%20Seleniu&cb=jQuery110205646466708276421_1497235823082&_=1497235823098:1)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2017-06-12T02:55:19.894Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-12T03:00:19.881Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-12T03:05:19.870Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-12T03:10:19.861Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
