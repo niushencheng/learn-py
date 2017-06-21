@@ -1,6 +1,12 @@
 from bs4 import BeautifulSoup as bs
+from urllib import request
 
-soup = bs(open('text.html', 'r', encoding='utf8'), 'lxml')
-soup.prettify()
-tag = soup.find('header',{'class':'header'})
-print(tag.get_text().strip())
+if __name__ =='__main__':
+
+    try:
+        resp = request.urlopen('http://www.baidu.com')
+        read = resp.read()
+    except Exception as e:
+        print(e)
+    else:
+        print(read)
