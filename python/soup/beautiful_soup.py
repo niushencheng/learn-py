@@ -9,4 +9,4 @@ if __name__ =='__main__':
     except Exception as e:
         print(e)
     else:
-        print(read)
+        page = bs(read, 'lxml')
