@@ -1,6 +1,5 @@
-from urllib import request
 from multiprocessing import Pool
-import time
+from urllib import request
 
 
 def incr_num(url, path):
