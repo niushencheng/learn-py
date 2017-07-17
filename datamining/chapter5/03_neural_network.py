@@ -1,7 +1,7 @@
 """
 使用神经网络预测销量高低
 """
-if __name__ == '__main__' :
+if __name__ == '__main__':
     import pandas as pd
 
     # 读取数据
@@ -30,5 +30,6 @@ if __name__ == '__main__' :
     model.fit(x, y, epochs = 1000, batch_size = 10)  # 训练模型，学习一千次
     yp = model.predict_classes(x).reshape(len(y))  # 分类预测
 
-    from .cm_plot import *
+    from datamining.chapter5.cm_plot import *
+
     cm_plot(y, yp).show()
